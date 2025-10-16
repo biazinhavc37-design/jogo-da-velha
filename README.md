@@ -6,7 +6,9 @@
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
+**Jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Primeiro Jogador:
+Beatriz 
+- ⭕ Segundo Jogador:
+Bia
