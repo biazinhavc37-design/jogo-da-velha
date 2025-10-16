@@ -12,3 +12,7 @@
 Beatriz 
 - ⭕ Segundo Jogador:
 Bia
+
+## Vencedor:
+
+Não houve vencedor.
